@@ -3,22 +3,26 @@ sidebar_position: 1
 ---
 
 
-# HIVE Wallet 
+# Create A Hive wallet via https://hiveonboard.com (Recommended)
 
-### Easy way -> Go to SkateHive Server and ask for an account 
----
+1. Go to https://hiveonboard.com and click on "Create Account"
+2. Install [Hive Keychain Browser extension](https://hive-keychain.com/), reload the page and choose your Hive username
+3. Download your "Keys",save them at a safe place offline and click on "Create account".
+4. Hive Keychain extension will pop up asking you to set up a password. After you set up your Keychain password your Hive account will be imported to Keychain extension allowing you to access all Hive Dapps easy and secure.
+> Congrats. You created a Hive account
+5. Use your Hive account to log in to Skatehive.app 
+
+
+
+### Request a Hive account in Skatehive Discord Server (Way 2)
+
 1. Join https://discord.gg/skatehive
-2. Verify yourself clicking on this button
-(image placeholder)
-3. Go to `#request-account`, click in Request Account button 
-4. Your Hive Keys will arrive in your email 
-> What do I do with this ugly shit (you ask)
-5. Save this fucking keys in a very secure place **otherwise you are going to cry later**, bitch!
-
-6. Use your key and account name to login in https://skatehive.app 
+2. Verify yourself in "Enter Server" room
+3. Go to `#request-account` and fill in the form
+4. Your Hive Keys will arrive in your email soon
+5. Use your account name and keys to login in to https://skatehive.app 
 
 ### Enhance you experience
 ---
-Download Keychain browser extension to be able of log in easily and every hive plataform and manage your hive assets. 
+Install [Hive Keychain Browser extension](https://hive-keychain.com/) and interact safer and easier with [Skatehive](https://skatehive.app/) and all [Hive apps](https://hive.io/eco)
 
-### Download

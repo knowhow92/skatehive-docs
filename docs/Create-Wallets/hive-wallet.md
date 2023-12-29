@@ -2,30 +2,40 @@
 sidebar_position: 1
 ---
 
-# HIVE Wallet 
+# About HIVE Accounts
+
+Hive is a decentralized chain so there are many different account creation services. In this tutorial we're gonna show you how to create your Hive account through DBuzz, it's free, fast and easy. 
+> You can take a look at all account creation services on Hive here : https://signup.hive.io/
 
 
-### How to create a Hive wallet
+First things first, to use your Hive account you're gonna need a Hive wallet. We recommend Hive Keychain browser extension, it's easy to set up use. Go to https://hive-keychain.com/ and download the correct version for the device you're using.
+
+![image](https://github.com/knowhow92/skatehive-docs/assets/124047824/a049f641-884f-41bb-aaf5-4ae805e34b60)
+
+# How to create a Hive account
 ---
-1. Go to [hiveonboard.com](https://hiveonboard.com/create-account)
-2. Install Hive Keychain Browser Extension and then reload the page.
 
-![](https://hackmd.io/_uploads/rJ7wtAUsh.png)
+After setting up Hive Keychain, it's time to create a Hive account
 
-3. Go to https://ecency.com/signup to create an account. Choose your username and put your email address.
+**1.** Go to [DBuzz](https://d.buzz/) and click on "Sign Up"
 
-![](https://hackmd.io/_uploads/HJ9Kn0Usn.png)
+**2.** Pick an available username and click on "continue"
 
-4. Download your account info ("Download Backup) that was sent to your email and store them in a safe place.
+**3.** At the next page, click on "Download Backup" to download your Hive account keys (or passwords). Make sure you save them in a very secure place. If you loose access to your keys you loose access to your Hive account. (No account recovery). Also click on "Copy Clipboard" so you can move to the next step.
 
-![](https://hackmd.io/_uploads/HyuRg1win.png)
+![image](https://github.com/knowhow92/skatehive-docs/assets/124047824/8dfe9fbe-cd9f-40fe-801e-ca18f246c0d5)
 
 
-> Save this fucking keys in a very secure place **otherwise you are going to cry later**!
-5. Enter your username and password into the Hive Keychain browser extension to save them.
+**4.** Scroll to the bottom of the page, check the DBuzz agreement (again, SAVE YOUR KEYS) and click on "Create account"
 
-![](https://hackmd.io/_uploads/ByROGywjh.png)
+![image](https://github.com/knowhow92/skatehive-docs/assets/124047824/e29f5229-9d2b-4da0-9fca-ce0609a636a1)
 
-7. Congratulations on making your Hive account.
+**5.** Complete mobile verification 
 
-If you're having trouble creating a Hive account you can request a Hive account at [Skatehive Discord](discord.gg/skatehive)
+![image](https://github.com/knowhow92/skatehive-docs/assets/124047824/2bb47c8c-5c7e-4813-bcbd-c328ddb6b1ed)
+
+**6.** Hive Keychain extension will pop up and ask you to import your Keys. Accept the transaction.
+
+**7.** Congratulations on making your Hive account.
+
+*If you're having trouble creating an account you can always request one account at [Skatehive Discord](discord.gg/skateboard)*
